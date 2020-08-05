@@ -12,7 +12,7 @@ Hi there! I'm Dan, somebody who's just trying to get through this crazy world wh
 
 #### Code Graveyard Disclaimer ☠️
 
-So it seems as though you found my GitHub profile! That's exciting for you, and scary for me, seeing as a far amount of this profile is graveyard projects from college. No worries! Feel free to look around still - I can't stop you - but remember that much of this code was written was I was just a novice. Most of my newer code is proprietary (for the moment) so I can't really share it, but feel free to read the sections below on what I'm focusing on.
+So it seems as though you found my GitHub profile! That's exciting for you, and scary for me, seeing as a far amount of this profile is graveyard projects from college. No worries! Feel free to look around still - I can't stop you - but remember that **much of this code was written was I was just a student**. Most of my newer code is proprietary (for the moment) so I can't really share it, but feel free to read the sections below on what I'm focusing on.
 
 ---
 
