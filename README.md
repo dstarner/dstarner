@@ -2,14 +2,14 @@
 
 Hi there! I'm Dan, somebody who's just trying to get through this crazy world while some having fun and learning a thing or two along the way. I'm a software engineer by profession, but my interests and goals are much larger than just code. **I want to make a positive impact in the world**, and code is just one avenue that I use to achieve that.
 
-### Quick Facts 
+### Quick Facts 🏎️
 
 * Website: <https://www.danstarner.com>
 * Blog: <https://dev.to/dstarner>
 * LinkedIn: <https://www.linkedin.com/in/danstarner/>
 * Pronouns: He/Him
 
-#### Code Graveyard Disclaimer
+#### Code Graveyard Disclaimer ☠️
 
 So it seems as though you found my GitHub profile! That's exciting for you, and scary for me, seeing as a far amount of this profile is graveyard projects from college. No worries! Feel free to look around still - I can't stop you - but remember that much of this code was written was I was just a novice. Most of my newer code is proprietary (for the moment) so I can't really share it, but feel free to read the sections below on what I'm focusing on.
 
