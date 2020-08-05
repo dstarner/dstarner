@@ -47,6 +47,15 @@ I'll chat about technology, racing, video games, interviewing/resumes, Legos, or
 * 🏎️ [iRacing](https://www.iracing.com/) - I race mostly [Sprints](https://en.wikipedia.org/wiki/Sprint_car_racing), [Street Stock](https://www.iracing.com/cars/dirt-street-stock/), and [ARCA](https://www.iracing.com/cars/chevrolet-national-impala/) on a nightly basis
 * 🏎️ Pit-crewing a dirt Street Stock car at [Ransomville Speedway](http://www.ransomvillespeedway.com/) whenever I find myself back in Buffalo on summer weekends
 
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstarner&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dstarner&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
 
 [django]: http://djangoproject.com/
 [drf]: https://www.django-rest-framework.org/
