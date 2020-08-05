@@ -47,6 +47,11 @@ I'll chat about technology, racing, video games, interviewing/resumes, Legos, or
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Tool Can You Never Remember or Get Good At?](https://dev.to/dstarner/what-tool-can-you-never-remember-or-get-good-at-391j)
+- [The Myth of Sisyphus, Failure, & the Meaning of Imperfect Code](https://dev.to/dstarner/the-myth-of-sisyphus-failure-the-meaning-of-imperfect-code-25e3)
+- [Time to Show Off the Robot](https://dev.to/dstarner/time-to-show-off-the-robot-30dp)
+- [Even the Big Ones Mess Up](https://dev.to/dstarner/even-the-big-ones-mess-up-51dp)
+- [Lessons Learned: Python to JavaScript](https://dev.to/dstarner/lessons-learned-python-to-javascript-4lae)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats
