@@ -18,7 +18,7 @@ So it seems as though you found my GitHub profile! That's exciting for you, and 
 
 ### Say Hi 📫
 
-Honestly, the best way to reach out to me is probably either via a Direct Message on [Twitter](https://twitter.com/standarner) or to just @ me in a tweet you think is cool! Feel free to email me as well, but I'm a Gen-Z'er, so I (albeit regrettably) on social media, so I'll probably see the Twitter mentions first.
+Honestly, the best way to reach out to me is probably either via a Direct Message on [Twitter](https://twitter.com/standarner) or to just @ me in a tweet you think is cool! Feel free to email me as well, but I'm a Gen-Z'er, so I (albeit regrettably) am most likely on social media, so I'll see the Twitter mentions first.
 
 I'll chat about technology, racing, video games, interviewing/resumes, Legos, or really whatever you want! I enjoy sharing my experiences, but I enjoy hearing others' personal journeys and opinions more.
 
