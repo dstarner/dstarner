@@ -6,7 +6,7 @@ Hi there! I'm Dan, somebody who's just trying to get through this crazy world wh
 
 * Website: <https://www.danstarner.com>
 * Blog: <https://dev.to/dstarner>
-* LinkedIn: <https://www.linkedin.com/in/danstarner/>
+* LinkedIn (w/ resume): <https://www.linkedin.com/in/danstarner/>
 * Pronouns: He/Him
 * Fun Fact: My go-to lunch is an Italian sub on wheat with balsalmic, lettuce, tomato, onion, and alllllll the cold cuts available. 🥪
 
