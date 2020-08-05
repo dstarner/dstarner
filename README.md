@@ -22,30 +22,32 @@ Honestly, the best way to reach out to me is probably either via a Direct Messag
 
 I'll chat about technology, racing, video games, interviewing/resumes, Legos, or really whatever you want! I enjoy sharing my experiences, but I enjoy hearing others' personal journeys and opinions more.
 
-## 📕 Latest Blog Posts
+### What have I been up to?
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-### Current Projects 👨‍💻
+#### Current Projects 👨‍💻
 
 * Helping to maintain a [Golang][golang] CLI using [Cobra][cobra] and [Viper][viper] which assists in building and maintaining clusters - [Kube][kube] & non-Kube - across different clouds and environments.
 * Building a [React][react] with [NextJS][nextjs] & [ExpressJS][express] proxy server that fetches data from the [GitHub API][github-api] and a [Python Django][django] with [Django Rest Framework][drf] on top 
 * Maintaining a CI/CD [Jenkins][jenkins] library that makes project and release management seamless and automatic.
 
-### Philanthropic Efforts 🏫
+#### Philanthropic Efforts 🏫
 
 * [*FIRST* Robotics](https://www.firstinspires.org/robotics/frc) - Mentor of [#354: The G-House Pirates](https://www.ghouse354.com/)
 * Occasionally helps with [Younglife](https://www.younglife.org/Pages/default.aspx)
 * Volunteers with various other organizations such as [The Bowery Mission](https://www.bowery.org/), [Bloomberg Philanthropies](https://www.bloomberg.org/), and [Sean Casey Animal Rescue](https://www.nyanimalrescue.org/)
 
-### Activities & Hobbies 🚵‍♂️🥾
+#### Activities & Hobbies 🚵‍♂️🥾
 
 * 🚴‍♂️ Biking - Feel free to follow me on [Strava](https://www.strava.com/athletes/41276691)!
 * 🏔 Hiking - Feel free to check out my [AllTrails account](https://www.alltrails.com/members/dan-starner)
 * 🏎️ [iRacing](https://www.iracing.com/) - I race mostly [Sprints](https://en.wikipedia.org/wiki/Sprint_car_racing), [Street Stock](https://www.iracing.com/cars/dirt-street-stock/), and [ARCA](https://www.iracing.com/cars/chevrolet-national-impala/) on a nightly basis
 * 🏎️ Pit-crewing a dirt Street Stock car at [Ransomville Speedway](http://www.ransomvillespeedway.com/) whenever I find myself back in Buffalo on summer weekends
+
+
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats
 
