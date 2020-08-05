@@ -2,7 +2,7 @@
 
 Hi there! I'm Dan, somebody who's just trying to get through this crazy world while some having fun and learning a thing or two along the way. I'm a software engineer by profession, but my interests and goals are much larger than just code. **I want to make a positive impact in the world**, and code is just one avenue that I use to achieve that.
 
-### Quick Facts
+### Quick Facts 
 
 * Website: <https://www.danstarner.com>
 * Blog: <https://dev.to/dstarner>
