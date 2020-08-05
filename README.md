@@ -22,6 +22,12 @@ Honestly, the best way to reach out to me is probably either via a Direct Messag
 
 I'll chat about technology, racing, video games, interviewing/resumes, Legos, or really whatever you want! I enjoy sharing my experiences, but I enjoy hearing others' personal journeys and opinions more.
 
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ### Current Projects 👨‍💻
 
 * Helping to maintain a [Golang][golang] CLI using [Cobra][cobra] and [Viper][viper] which assists in building and maintaining clusters - [Kube][kube] & non-Kube - across different clouds and environments.
