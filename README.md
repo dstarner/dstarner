@@ -26,9 +26,7 @@ I'll chat about technology, racing, video games, interviewing/resumes, Legos, or
 
 #### Current Projects 👨‍💻
 
-* Helping to maintain a [Golang][golang] CLI using [Cobra][cobra] and [Viper][viper] which assists in building and maintaining clusters - [Kube][kube] & non-Kube - across different clouds and environments.
-* Building a [React][react] with [NextJS][nextjs] & [ExpressJS][express] proxy server that fetches data from the [GitHub API][github-api] and a [Python Django][django] with [Django Rest Framework][drf] on top 
-* Maintaining a CI/CD [Jenkins][jenkins] library that makes project and release management seamless and automatic.
+Well, I just switched jobs, so I'm not quite sure yet! [Bloomberg](https://github.com/bloomberg) was a blast, but I'm excited for the next step in my journey as I join [Heroku](https://github.com/heroku/) on their infrastructure Runtimes team!
 
 #### Philanthropic Efforts 🏫
 
