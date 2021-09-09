@@ -62,6 +62,7 @@ Well, I just switched jobs, so I'm not quite sure yet! [Bloomberg](https://githu
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dstarner&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dan's GitHub Stats" />
 </a>
 
+
 [django]: http://djangoproject.com/
 [drf]: https://www.django-rest-framework.org/
 [github-api]: https://docs.github.com/en/rest
