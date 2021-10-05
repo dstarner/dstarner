@@ -45,11 +45,11 @@ Well, I just switched jobs, so I'm not quite sure yet! [Bloomberg](https://githu
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Baseline Mac Setup](https://dev.to/dstarner/my-baseline-mac-setup-21fb)
 - [Maintaining Quality Documentation](https://dev.to/dstarner/keeping-documentation-debt-at-bay-clients-happy-53o)
 - [Updating My GitHub Profile README](https://dev.to/dstarner/updating-my-github-profile-readme-2mch)
 - [What Tool Can You Never Remember or Get Good At?](https://dev.to/dstarner/what-tool-can-you-never-remember-or-get-good-at-391j)
 - [The Myth of Sisyphus, Failure, & the Meaning of Imperfect Code](https://dev.to/dstarner/the-myth-of-sisyphus-failure-the-meaning-of-imperfect-code-25e3)
+- [Time to Show Off the Robot](https://dev.to/dstarner/time-to-show-off-the-robot-30dp)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats
