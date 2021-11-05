@@ -45,7 +45,7 @@ Well, I just switched jobs, so I'm not quite sure yet! [Bloomberg](https://githu
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons Learned After Switching Jobs](https://dev.to/dstarner/learned-lessons-of-switching-jobs-552g)
+- [Switching Jobs in Tech Industry: 6 Key Lessons I've Learned](https://dev.to/dstarner/learned-lessons-of-switching-jobs-552g)
 - [Introspecting Python Parameter Values via Argument Binding](https://dev.to/dstarner/introspecting-python-parameter-values-via-argument-binding-1cok)
 - [Maintaining Quality Documentation](https://dev.to/dstarner/keeping-documentation-debt-at-bay-clients-happy-53o)
 - [Updating My GitHub Profile README](https://dev.to/dstarner/updating-my-github-profile-readme-2mch)
