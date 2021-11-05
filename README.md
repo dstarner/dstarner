@@ -45,11 +45,11 @@ Well, I just switched jobs, so I'm not quite sure yet! [Bloomberg](https://githu
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons Learned After Switching Jobs](https://dev.to/dstarner/learned-lessons-of-switching-jobs-552g)
 - [Introspecting Python Parameter Values via Argument Binding](https://dev.to/dstarner/introspecting-python-parameter-values-via-argument-binding-1cok)
 - [Maintaining Quality Documentation](https://dev.to/dstarner/keeping-documentation-debt-at-bay-clients-happy-53o)
 - [Updating My GitHub Profile README](https://dev.to/dstarner/updating-my-github-profile-readme-2mch)
 - [What Tool Can You Never Remember or Get Good At?](https://dev.to/dstarner/what-tool-can-you-never-remember-or-get-good-at-391j)
+- [The Myth of Sisyphus, Failure, & the Meaning of Imperfect Code](https://dev.to/dstarner/the-myth-of-sisyphus-failure-the-meaning-of-imperfect-code-25e3)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats
