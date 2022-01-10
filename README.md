@@ -45,11 +45,11 @@ Well, I just switched jobs, so I'm not quite sure yet! [Bloomberg](https://githu
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Switching Jobs in Tech Industry: 6 Key Lessons I&#39;ve Learned](https://dev.to/dstarner/learned-lessons-of-switching-jobs-552g)
-- [Introspecting Python Parameter Values via Argument Binding](https://dev.to/dstarner/introspecting-python-parameter-values-via-argument-binding-1cok)
-- [Maintaining Quality Documentation](https://dev.to/dstarner/keeping-documentation-debt-at-bay-clients-happy-53o)
-- [Updating My GitHub Profile README](https://dev.to/dstarner/updating-my-github-profile-readme-2mch)
-- [What Tool Can You Never Remember or Get Good At?](https://dev.to/dstarner/what-tool-can-you-never-remember-or-get-good-at-391j)
+- [Building Dynamic Breadcrumbs in NextJS](https://dev.to/dan_starner/building-dynamic-breadcrumbs-in-nextjs-17oa)
+- [Switching Jobs in Tech Industry: 6 Key Lessons I&#39;ve Learned](https://dev.to/dan_starner/learned-lessons-of-switching-jobs-552g)
+- [Introspecting Python Parameter Values via Argument Binding](https://dev.to/dan_starner/introspecting-python-parameter-values-via-argument-binding-1cok)
+- [Maintaining Quality Documentation](https://dev.to/dan_starner/keeping-documentation-debt-at-bay-clients-happy-53o)
+- [Updating My GitHub Profile README](https://dev.to/dan_starner/updating-my-github-profile-readme-2mch)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats
