@@ -18,7 +18,7 @@ So it seems as though you found my GitHub profile! That's exciting for you, and 
 
 ### Say Hi 📫
 
-Honestly, the best way to reach out to me is probably either via a Direct Message on [Twitter](https://twitter.com/standarner) or to just @ me in a tweet you think is cool! Feel free to email me as well, but I'm a Gen-Z'er, so I (albeit regrettably) am most likely on social media, so I'll see the Twitter mentions first.
+Honestly, the best way to reach out to me is probably either via a Direct Message on [Twitter](https://twitter.com/dan_starner) or to just @ me in a tweet you think is cool! Feel free to email me as well, but I'm a Gen-Z'er, so I (albeit regrettably) am most likely on social media, so I'll see the Twitter mentions first.
 
 I'll chat about technology, racing, video games, interviewing/resumes, Legos, or really whatever you want! I enjoy sharing my experiences, but I enjoy hearing others' personal journeys and opinions more.
 
@@ -26,7 +26,7 @@ I'll chat about technology, racing, video games, interviewing/resumes, Legos, or
 
 #### Current Projects 👨‍💻
 
-Well, I just switched jobs, so I'm not quite sure yet! [Bloomberg](https://github.com/bloomberg) was a blast, but I'm excited for the next step in my journey as I join [Heroku](https://github.com/heroku/) on their infrastructure Runtimes team!
+I am helping to build the infrastructure that powers [@heroku](https://github.com/heroku/), which is really neat because I get to give back to other developers in a similar way that Heroku helped me first get started with web deployments. More specifically, I am working with the runtime infrastructure that ensures your dynos stay healthy and happy!
 
 #### Philanthropic Efforts 🏫
 
