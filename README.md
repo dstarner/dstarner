@@ -18,7 +18,7 @@ So it seems as though you found my GitHub profile! That's exciting for you, and 
 
 ### Say Hi 📫
 
-Honestly, the best way to reach out to me is probably either via a Direct Message on [Twitter](https://twitter.com/dan_starner) or to just @ me in a tweet you think is cool! Feel free to email me as well, but I'm a Gen-Z'er, so I (albeit regrettably) am most likely on social media, so I'll see the Twitter mentions first.
+Honestly, the best way to reach out to me is probably either via a Direct Message on [LinkedIn]([https://twitter.com/dan_starner](https://www.linkedin.com/in/danstarner/))! Feel free to email me as well, but I'm a Gen-Z'er, so I (albeit regrettably) am most likely on social media, so I'll see those mentions first.
 
 I'll chat about technology, racing, video games, interviewing/resumes, Legos, or really whatever you want! I enjoy sharing my experiences, but I enjoy hearing others' personal journeys and opinions more.
 
@@ -26,20 +26,22 @@ I'll chat about technology, racing, video games, interviewing/resumes, Legos, or
 
 #### Current Projects 👨‍💻
 
-I am helping to build the infrastructure that powers [@heroku](https://github.com/heroku/), which is really neat because I get to give back to other developers in a similar way that Heroku helped me first get started with web deployments. More specifically, I am working with the runtime infrastructure that ensures your dynos stay healthy and happy!
+I am helping to build the Privacy and Data Regulation tooling that powers [@stripe](https://github.com/stripe/), making sure that your data concerning most of your online payments is done in secure and privacy-compliant manners.
+
+Previous to that, I was managing the Dyno Runtime Infrastructure [@heroku](https://github.com/heroku), which was really neat because I get to give back to other developers in a similar way that Heroku helped me first get started with web deployments. More specifically, I am working with the runtime infrastructure that ensures your dynos stay healthy and happy!
 
 #### Philanthropic Efforts 🏫
 
 * [*FIRST* Robotics](https://www.firstinspires.org/robotics/frc) - Mentor of [#354: The G-House Pirates](https://www.ghouse354.com/)
-* Occasionally helps with [Younglife](https://www.younglife.org/Pages/default.aspx)
 * Volunteers with various other organizations such as [The Bowery Mission](https://www.bowery.org/), [Bloomberg Philanthropies](https://www.bloomberg.org/), and [Sean Casey Animal Rescue](https://www.nyanimalrescue.org/)
 
 #### Activities & Hobbies 🚵‍♂️🥾
 
 * 🚴‍♂️ Biking - Feel free to follow me on [Strava](https://www.strava.com/athletes/41276691)!
+* 🏂 Snowboarding - I am an avid snowboarder can be found out on the slopes most weekends of the winter.
 * 🏔 Hiking - Feel free to check out my [AllTrails account](https://www.alltrails.com/members/dan-starner)
 * 🏎️ [iRacing](https://www.iracing.com/) - I race mostly [Sprints](https://en.wikipedia.org/wiki/Sprint_car_racing), [Street Stock](https://www.iracing.com/cars/dirt-street-stock/), and [ARCA](https://www.iracing.com/cars/chevrolet-national-impala/) on a nightly basis
-* 🏎️ Pit-crewing a dirt Street Stock car at [Ransomville Speedway](http://www.ransomvillespeedway.com/) whenever I find myself back in Buffalo on summer weekends
+* 🏎️ Pit-crewing a dirt Street Stock car at [Ransomville Speedway](http://www.ransomvillespeedway.com/) whenever I find the time on summer weekends
 
 
 ## 📕 Latest Blog Posts
