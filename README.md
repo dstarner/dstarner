@@ -47,11 +47,11 @@ Previous to that, I was managing the Dyno Runtime Infrastructure [@heroku](https
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Serve Static Internal Documentation Behind OAuth Authentication](https://dev.to/dan_starner/easily-serve-internal-documentation-behind-oauth-authentication-322k)
 - [Managing Django Media &amp; Static Files on Heroku with Bucketeer](https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l)
 - [Building Dynamic Breadcrumbs in NextJS](https://dev.to/dan_starner/building-dynamic-breadcrumbs-in-nextjs-17oa)
 - [Switching Jobs in Tech Industry: 6 Key Lessons I&#39;ve Learned](https://dev.to/dan_starner/learned-lessons-of-switching-jobs-552g)
 - [Introspecting Python Parameter Values via Argument Binding](https://dev.to/dan_starner/introspecting-python-parameter-values-via-argument-binding-1cok)
-- [Maintaining Quality Documentation](https://dev.to/dan_starner/keeping-documentation-debt-at-bay-clients-happy-53o)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats
